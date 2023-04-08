@@ -1,0 +1,5 @@
+../Misc/src/lcdController.c:10:13:lcdSendByte	24	static
+../Misc/src/lcdController.c:37:6:lcdControllerInit	24	static
+../Misc/src/lcdController.c:79:6:lcdControllerSendString	32	static
+../Misc/src/lcdController.c:96:6:lcdControllerClearRow	24	static
+../Misc/src/lcdController.c:107:6:lcdControllerClearDisplay	16	static
